@@ -1,0 +1,11 @@
+.app{
+  height:100vh;
+  background: rgb(10,130,226);
+  background: linear-gradient(90deg, rgba(10,130,226,1) 0%, rgba(49,171,254,1) 100%);
+}
+
+/* @media screen and (max-width: 992px) {
+  body {
+    height: 100%;
+  }
+} */
